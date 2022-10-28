@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RCdelivery</string>
+    <string name="recallButton">Kutsu takaisin</string>
+    <string name="title_text">Robot Delivery Inc</string>
+    <string name="statusText">Tila:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="batterytext">Akku:</string>
+</resources>
